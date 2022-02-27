@@ -1,0 +1,19 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.30423.811",
+  "ExtendedData": {
+    "inputs": [
+      "http://sms.pumkin.ir/API/Send.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "messageContract": true,
+    "namespaceMappings": [
+      "*, PumkinService"
+    ],
+    "targetFramework": "netcoreapp2.2",
+    "typeReuseMode": "None"
+  }
+}
